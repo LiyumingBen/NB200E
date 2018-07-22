@@ -1,0 +1,44 @@
+﻿.login_body {
+  height: 100%;
+  background-color: #444;
+  text-align: center;
+  overflow: auto;
+}
+
+.login_content {
+  border: solid 1px #ee9a1d;
+  border-radius: 0.7rem;
+  background-color: #393939;
+  margin-top: -10%;
+  .welcome {
+    color: rgb(164, 164, 164);
+    font-size: 2rem;
+  }
+  .welcome a {
+    font-size: 2.5rem;
+    color: #ee9a1d !important;
+  }
+}
+
+.submit {
+  background: #ee9a1d;
+  border-radius: 0.3125rem;
+  border: 1px solid #b8b8b8;
+  line-height: 2rem;
+  color: #444;
+  font-weight: bold;
+  font-size: 1rem;
+  width: 5rem;
+}
+
+.w-83 {
+  width: 83% !important;
+}
+
+.IE_Tips{
+  color: rgb(220, 53, 69);
+  width: auto;
+  height: 50%;
+  margin: 0 auto;
+}
+

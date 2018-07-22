@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "description": null,
+  "data": {
+     "input": 0,
+     "output": "myRecordStream.trp",
+     "sdtotalsize": 100,
+     "sdusesize": 60,
+     "sdexist": false,
+     "unmountsd": true,
+     "usbtotalsize": 1497,
+     "usbusesize": 1000,
+     "usbexist": true,
+     "unmountusb": true,
+     "isrecord": 0,
+     "recordname": "Wellav2018",
+     "recordmode": 1,
+     "storagedevice": 0,
+     "recordsize": 1024000,
+     "recordtime": 120,
+     "istimeloop": 0,
+     "issizeloop": 1,
+     "recordflag": true,
+     "url": "rtmp://172.16.1.254/mylive",
+     "streamname": "My_Live_Stream",
+     "sd_filesystem": "FAT32",
+     "usb_filesystem": "FAT32",
+     "iswriteableusb": 0,
+     "iswriteablesd": 0
+  }
+}
